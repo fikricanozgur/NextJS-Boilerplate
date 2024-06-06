@@ -28,12 +28,14 @@ const handler = NextAuth({
             email,
             provider,
             username: profile?.name?.replace(" ", "").toLowerCase(),
-            // image: profile?.picture || profile?.avatar_url,
+            image: profile?.picture || profile?.avatar_url || "default_image_url",
           });
         }
         return true;
       } catch (error) {
-        console.error("Error: ", error?.message);
+        // console.error("Error: ", error?.message);
+        console.error("Error: ", error instanceof Error ? error.message : error);
+
         return false;
       }
     },
