@@ -28,7 +28,7 @@ const handler = NextAuth({
             email,
             provider,
             username: profile?.name?.replace(" ", "").toLowerCase(),
-            image: profile?.picture || profile?.avatar_url,
+            // image: profile?.picture || profile?.avatar_url,
           });
         }
         return true;
