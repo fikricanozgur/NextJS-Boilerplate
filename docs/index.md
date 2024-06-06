@@ -2,9 +2,9 @@
 layout: default
 title: Home
 nav_order: 1
-has_children: true
+has_children: false
 ---
 
 ## Home
 
-Home Page
+Home page
