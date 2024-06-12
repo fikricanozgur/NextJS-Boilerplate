@@ -18,14 +18,14 @@ has_children: false
 Follow the below steps:
 
 ```console
-user@nextjs_boilerplate:~$ npm install mongodb
-user@nextjs_boilerplate:~$ npm install include--dev prisma
-user@nextjs_boilerplate:~$ npx prisma init
+user@nextjs:~$ npm install mongodb
+user@nextjs:~$ npm install include--dev prisma
+user@nextjs:~$ npx prisma init
 
 // Make sure to add .env to .gitignore
 // Create and populate prisma/schema.prisma file
 
-user@nextjs_boilerplate:~$ npx prisma db push
-user@nextjs_boilerplate:~$ npx install @prisma/client
-user@nextjs_boilerplate:~$ npx prisma generate
+user@nextjs:~$ npx prisma db push
+user@nextjs:~$ npx install @prisma/client
+user@nextjs:~$ npx prisma generate
 ```
