@@ -8,7 +8,9 @@ has_children: false
 
 ## Prettier Code Formatter
 
-  1. Installation: [link](https://deku.posstree.com/en/react/nextjs/prettier/)
+Installation: [link](https://deku.posstree.com/en/react/nextjs/prettier/)
+Usage: `<npm run format>` and `<npm run format:fix>` 
+
 
 
 

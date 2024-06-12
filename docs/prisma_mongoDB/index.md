@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Mongo DB
+title: Prisma & Mongo DB
 nav_order: 3
 has_children: true
 ---
 
-## Mongo DB
+## Prisma & Mongo DB
 
 
 
