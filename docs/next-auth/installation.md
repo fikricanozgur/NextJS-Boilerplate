@@ -30,8 +30,8 @@ In order to be able to use NextAuth in your webapp you need to collect your cred
 
 # NextAuth Integration
 
-[NextAuth 5 Integration](https://blog.stackademic.com/authentication-in-next-js-with-auth-js-nextauth-5-b74e3ae18ab8)
-[Auth in server and client sides](https://judy-webdecoded.medium.com/how-i-integrated-authentication-next-auth-v5-in-my-nextjs-14-application-0d57f84cf4ac)
+1. [NextAuth 5 Integration](https://blog.stackademic.com/authentication-in-next-js-with-auth-js-nextauth-5-b74e3ae18ab8)
+1. [Auth in server and client sides](https://judy-webdecoded.medium.com/how-i-integrated-authentication-next-auth-v5-in-my-nextjs-14-application-0d57f84cf4ac)
 
 
 

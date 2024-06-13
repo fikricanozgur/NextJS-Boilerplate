@@ -10,7 +10,7 @@ has_children: false
 - [x] Start documenting your work [1](https://just-the-docs.com/)
 - [ ] Integrate Antdesign (File upload UI/forms with input verification/Theme controller [1](https://daisyui.com/components/theme-controller/), [2](https://daisyui.com/docs/themes/))
 - [ ] Integrate Paddle/Stripe/Lemon Squezzy etc.
-- [ ] Migrate from Mongoose to Prisma ORM [1](https://www.prisma.io/docs/orm/more/migrating-to-prisma/migrate-from-mongoose)
+- [x] Migrate from Mongoose to Prisma ORM [1](https://www.prisma.io/docs/orm/more/migrating-to-prisma/migrate-from-mongoose)
 - [ ] Integrate Tailwind next to SaSS css [1](https://www.google.com/search?q=how+to+use+Tailwind+together+with+SaSS&rlz=1C1ONGR_deCH1078CH1078&oq=how+to+use+Tailwind+together+with+SaSS&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigXSAQkxNTk3M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:3878be09,vid:5HijDEdQEcY,st:0)
 - [ ] Integrate Mailgun for transactional emails [1](https://www.suprsend.com/post/how-to-send-transactional-emails-with-mailgun-in-next-js-with-code-examples)
 - [ ] Integrate Google/Plausible Analytics [1](https://nextjs.org/docs/pages/building-your-application/optimizing/analytics)
